@@ -35,6 +35,6 @@ The dataset includes details of transactions during the Diwali period, including
 3. Open `Diwali_Sales_Analysis.ipynb` in Jupyter Notebook or VS Code.
 
 ---
-## ✍️ Author
+##  Author
 **Suraj**
 * **GitHub:** [@surajyadav011](https://github.com/surajyadav011)
