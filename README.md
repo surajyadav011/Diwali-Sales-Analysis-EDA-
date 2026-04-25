@@ -9,7 +9,7 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on Diwali 
 * Identify top-performing states and product categories.
 * Provide a final summary of the "ideal customer" profile to guide marketing strategies.
 
-## 📊 Featured Analysis: Geographical Performance
+##  Featured Analysis: Geographical Performance
 ![Project Preview](project_preview.png)
 
 > **Strategic Insight:** Most orders and total sales are concentrated in **Uttar Pradesh, Maharashtra, and Karnataka**. Targeting these high-purchasing regions can significantly optimize marketing spend and supply chain logistics.
