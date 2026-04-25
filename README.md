@@ -14,12 +14,11 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on Diwali 
 
 > **Strategic Insight:** Most orders and total sales are concentrated in **Uttar Pradesh, Maharashtra, and Karnataka**. Targeting these high-purchasing regions can significantly optimize marketing spend and supply chain logistics.
 
-## 🛠️ Technical Stack
-
 ## Technologies Used
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
+  
 ## Dataset
 The dataset includes details of transactions during the Diwali period, including:
 * User ID, Product ID, Gender, Age Group, Marital Status, State, Occupation, and Amount.
